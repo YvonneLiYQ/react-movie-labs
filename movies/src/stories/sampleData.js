@@ -39,7 +39,7 @@ const sampleData = {
       },
 
 
-    ]
+    ],
     homepage:
       "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
     id: 181808,
