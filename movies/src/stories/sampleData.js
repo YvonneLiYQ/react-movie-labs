@@ -26,6 +26,20 @@ const sampleData = {
         name: "Action",
       },
     ],
+    production_countries:[
+      {
+        id:99,
+        name:"Production Countries",
+
+      },
+      {
+        id:100,
+        name:"United State of America",
+
+      },
+
+
+    ]
     homepage:
       "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
     id: 181808,
@@ -71,6 +85,9 @@ const sampleData = {
         name: "English",
       },
     ],
+
+    
+
     status: "Released",
     tagline: "Darkness rises... and light to meet it",
     title: "Star Wars: The Last Jedi",
