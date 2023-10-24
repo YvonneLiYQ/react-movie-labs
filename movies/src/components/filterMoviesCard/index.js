@@ -37,6 +37,7 @@ export default function FilterMoviesCard(props) {
       });
       // eslint-disable-next-line
   }, []);
+  
 
   const handleChange = (e, type, value) => {
     e.preventDefault()
